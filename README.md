@@ -3,6 +3,8 @@
 Ambilight-like plugin to use with ds4 lightbar.  
 Works on PSTV or Vita with minivitatv
 
+Right now this plugin is participating in [KyuHEN Contest](https://kyuhen.customprotocol.com/en/)
+
 ## Usage
 
 There are two versions:  
